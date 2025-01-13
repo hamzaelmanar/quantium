@@ -53,8 +53,28 @@ The analysis is based on retail transaction data containing:
 3. Navigate to the notebooks directory to view the analysis
 
 ## Key Insights and Recommendations
-[To be completed based on your specific findings]
 
+To go directly to the concerned graph :
+   -  copy the selected title below
+   - go to notebook
+   - press ctrl+f, paste. This will lead you directly to the concerned section.
+1. **Sales Drivers :**
+   - 4 primary brands drive the sales, by quantity and by total sales : Kettle, Smiths, Doritos and Pringles  
+   - 4 primary pack sizes drive the sales, by quantity and by total sales : 175G, 150G, 134G, 110G 
+   - __**Interesting point**__ : As unique products, some 380G, 330G and 175G belong in the top 10 most profitables products, could be an interesting wave to ride. Was it the last marketing campaign effect ? Product layout in store ? Discuss this with stakeholder
+
+2. **Customer segmentation deep dive :**
+   - I should put side by side the "Total Sales" and the "Sales Distribution" graphs. Sames with "Total Quantity" and "Quantity Distribution". This allows more intuitive insights 
+   - New families don't buy much chips, possible campaign targets ? Define which premium type to deliver 
+   - Analyze product-market fit for each lifestage, and select most pertinent premium category to market. Need stakeholder expertise on this
+   - Older and Midage Singles/Couples drivers of premium products, ride that wave
+
+3. **Sales trends :**
+   - Sales hit low point on week 20 and week ~32. **This low point is felt mostly by budget and mainstream, but not by premium products**, look into it 
+   - Plotting weekly sales by lifestage gives an intuitive visualization of profitable segments ;
+
+4. **Most profitable shops and cumulative gross sales :**
+   - ~ 1/3rd of the shops make up 50% of cumulative gross sales. To be confirmed
 
 ## Acknowledgments
 - Quantium for providing the dataset
