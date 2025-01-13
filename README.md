@@ -2,6 +2,7 @@
 
 ## Overview
 This project, completed as part of the Quantium Virtual Experience Program on Theforage.com, focuses on analyzing retail transaction data for the chips and crisps category. The analysis aims to provide actionable insights to the category manager for optimizing product performance and customer targeting.
+Constructive feedback are most welcome !
 
 ## Project Objectives
 - Examine and clean transaction and customer data to ensure data quality
