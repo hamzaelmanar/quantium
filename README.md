@@ -11,11 +11,8 @@ This project, completed as part of the Quantium Virtual Experience Program on Th
 - Provide strategic recommendations based on the analysis
 
 ## Technologies Used
-- Python for data analysis and manipulation
-- Pandas for data processing
-- NumPy for numerical computations
-- Matplotlib for data visualization
-
+- Programming language: Python
+- Libraries: pandas, matplotlib, numpy
 ## Dataset
 The analysis is based on retail transaction data containing:
 - Customer purchase information
@@ -24,7 +21,7 @@ The analysis is based on retail transaction data containing:
 - Store location data
 
 ## Analysis Components
-1. **Data Cleaning and Preparation**
+1. **Data Cleaning and Preparation** : this step was done manually beforehand. 
    - Transaction data examination
    - Anomaly detection and handling
    - Data standardization
@@ -44,14 +41,6 @@ The analysis is based on retail transaction data containing:
    - Key findings presentation
    - Strategic recommendations
 
-## Project Structure
-```
-├── data/               # Data files
-├── notebooks/          # Jupyter notebooks containing analysis
-├── src/               # Source code
-├── visualizations/    # Generated charts and graphs
-└── README.md          # Project documentation
-```
 
 ## How to Run
 1. Clone this repository
@@ -64,10 +53,6 @@ The analysis is based on retail transaction data containing:
 ## Key Insights and Recommendations
 [To be completed based on your specific findings]
 
-## Future Improvements
-- Expand analysis to other product categories
-- Implement advanced statistical methods
-- Develop predictive models for sales forecasting
 
 ## Acknowledgments
 - Quantium for providing the dataset
