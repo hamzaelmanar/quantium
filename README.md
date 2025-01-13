@@ -79,6 +79,3 @@ To go directly to the concerned graph :
 ## Acknowledgments
 - Quantium for providing the dataset
 - Theforage.com for hosting the virtual experience program
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details
