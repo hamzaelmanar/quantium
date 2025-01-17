@@ -54,6 +54,7 @@ The analysis is based on retail transaction data containing:
 
 ## Key Insights and Recommendations
 
+### Task 1 : Sales and customer segmentation analysis
 To go directly to the concerned graph :
    -  copy the selected title below
    - go to notebook
@@ -75,6 +76,21 @@ To go directly to the concerned graph :
 
 4. **Most profitable shops and cumulative gross sales :**
    - ~ 1/3rd of the shops make up 50% of cumulative gross sales. To be confirmed
+
+   ### Task 2 : Product layout effect on sales 
+
+   The category manager experimented with a product layout on stores 77, 86 and 88 during a trial period.
+   We have to determine whether the product layout had indeed an effect on driving sales by making the customer make more transactions (since he walks through the product aisles, likes what he sees, and spends more).
+
+   **Key insights :**
+   - Trial period did not affect sales at all in store 77 ; 
+   - Sales noticed an increase in store 86. After further analysis, it was due to the increase in number of customers, not the increase in the number of transactions per customer ;
+   - Trial period did affect sales in store 88, and the main reason was the increase in the number of transaction per customer.
+
+   **Recommandations :**
+   - Confirm this trend with a statistical significance test (Z-test) (halfway done) ;
+   - Once we have confirmation, expand the product layout of store 88 to all the stores, sit, ???, profit. 
+
 
 ## Acknowledgments
 - Quantium for providing the dataset
